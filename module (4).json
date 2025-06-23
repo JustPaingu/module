@@ -1,0 +1,27 @@
+{
+    "name": "czepeku-animated-113-chthonic-lighthouse",
+    "title": "Cze and Peku Animated - Chthonic Lighthouse",
+    "description": "<p>This module provides the Animated Chthonic Lighthouse map pack by Cze and Peku. All maps are pre-configured with walls and lighting to be game-ready, so you can jump right in to use them for your next adventure.</p>",
+    "version": "1.0.2",
+	"compatibility": {
+    "minimum": "9",
+    "verified": "10.261"},
+    "author": "Cze and Peku",
+    "packs": [
+        {
+            "name": "maps",
+            "label": "Cze and Peku Animated - Chthonic Lighthouse",
+            "path": "/Packs/maps.db",
+            "type": "Scene"
+        }
+    ],
+"media": [
+  {
+    "type": "cover",
+    "url": ""
+  }
+     ],
+    "url": "https://www.patreon.com/czepeku/",
+    "manifest": "https://www.dropbox.com/s/ux7ey0agot73lgw/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/ckp3ej485jzoce3/czepekuanimated-chthoniclighthouse.zip?dl=1"
+}
